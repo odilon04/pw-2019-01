@@ -9,5 +9,5 @@ git clone + Link de seu repositório.
 
 # Links
 
-* https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1 ```Curso de Git``` - Do professor do Rodrigo Branas.
-* ``` https://www.markdownguide.org/ ``` - Um guia para você aprender a usar a linguagem Markdown.
+* ```Curso de Git``` (https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1) - Do professor do Rodrigo Branas.
+* ```Guia Markdown``` (https://www.markdownguide.org/ ) - Um guia para você aprender a usar a linguagem Markdown.
