@@ -3,6 +3,10 @@
 
 ## Demonstrações da disciplina de Programação para Web.
 
+## Para fazer clone do repositório:
+
+git clone + Link de seu repositório.
+
 # Links
 
 * ``` https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1 ```- Do professor do Rodrigo Branas.
